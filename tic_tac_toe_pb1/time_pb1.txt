@@ -1,0 +1,51 @@
+This is turn#: 2
+ -  X  - 
+ -  O  - 
+ -  -  - 
+time taken is = 0.000031
+This is turn#: 4
+ -  X  - 
+ O  O  - 
+ X  -  - 
+time taken is = 0.000003
+Congrats Player 2 Won!!
+Final Board:
+This is turn#: 5
+ -  X  - 
+ O  O  O 
+ X  -  - 
+
+Player 1 is done
+This is turn#: 1
+ -  -  - 
+ -  O  - 
+ -  -  - 
+time taken is = 0.000036
+This is turn#: 3
+ -  X  - 
+ O  O  - 
+ -  -  - 
+time taken is = 0.000005
+This is turn#: 5
+ -  X  - 
+ O  O  O 
+ X  -  - 
+time taken is = 0.000005
+
+Player 2 is done
+Player 2 starts
+time taken to create shared memory and initialize board is = 0.000025
+Running now Players 1 & 2 for a game of tic tac toe
+
+time taken for first fork parent = 0.000052
+time taken for second fork parent is = 0.000032
+time waited by parent is = 0.032455
+Turn 1 took 0.000036 sec
+Turn 2 took 0.000031 sec
+Turn 3 took 0.000005 sec
+Turn 4 took 0.000003 sec
+Turn 5 took 0.000005 sec
+
+
+Judge left "mic drop"
+

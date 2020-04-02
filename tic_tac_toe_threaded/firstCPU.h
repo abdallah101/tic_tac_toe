@@ -1,0 +1,1 @@
+void firstCPU(board *info);

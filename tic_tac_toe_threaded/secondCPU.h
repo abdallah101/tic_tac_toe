@@ -1,0 +1,1 @@
+void secondCPU (board *info);
